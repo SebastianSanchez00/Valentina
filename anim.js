@@ -34,7 +34,6 @@ startTransition()
 
 
 function descargarImagen() {
-  alert()
   const link = document.createElement("a");
   link.href = "img/paper.png"; // URL de la imagen (cámbiala por la tuya)
   link.download = "paper.png"; // Nombre del archivo a descargar
