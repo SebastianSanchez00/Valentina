@@ -3,7 +3,7 @@ onload = () =>{
 
     let audio = document.getElementById("miAudio");
             audio.currentTime = 78; 
-            // audio.play();
+             audio.play();
 };
 
 function cargar(){
